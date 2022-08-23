@@ -1,0 +1,10 @@
+.Static {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(158, 192, 222);
+    border: 2px solid black;
+}
+
+body {
+    margin: 0%;
+}
