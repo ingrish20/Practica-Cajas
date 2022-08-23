@@ -1,0 +1,35 @@
+.content{
+    width: 80%;
+    margin: 20px 20px 15px 20px;
+    margin-bottom: px;
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(224, 30, 224);
+    padding: 20px;
+   
+    
+}
+
+#article{
+    background: #efddef;
+    color: blue;
+    padding: 10px;
+
+}
+
+#imagen{
+    width: 25%;
+    float: right;
+    padding: 4px;
+    
+}
+
+.title-color{
+    color: rgba(105, 0, 203, 0.824);
+}
+
+.title-colorbg{
+    background-color: rgba(222, 185, 255, 0.824);
+}
+
+    
